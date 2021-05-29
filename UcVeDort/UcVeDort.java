@@ -21,5 +21,6 @@ public class UcVeDort {
 
         toplam /= sayac;
         System.out.println("Ortalama = " + toplam);
+        scn.close();
     }
 }
