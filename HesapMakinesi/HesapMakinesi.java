@@ -28,6 +28,6 @@ public class HesapMakinesi {
                 break;
             default: System.out.println("Geçersiz işlem");
         }
-
+        scn.close();
     }
 }
